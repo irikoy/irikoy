@@ -40,5 +40,5 @@
 <img src="assets/label-work-pill.svg" alt="Selected work" height="26">
 
 <p>
-  <a href="https://github.com/panoskoun/qBittorrent-Iriel-Dark-Theme"><img src="assets/card-project.svg" alt="Iriel, a dark qBittorrent theme inspired by Vercel's Geist design system" width="560"></a>
+  <a href="https://github.com/irikoy/qBittorrent-Iriel-Dark-Theme"><img src="assets/card-project.svg" alt="Iriel, a dark qBittorrent theme inspired by Vercel's Geist design system" width="560"></a>
 </p>
