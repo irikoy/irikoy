@@ -1,4 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Build less. Ship clean.">
+<defs><clipPath id="c"><rect width="1200" height="320" rx="18"/></clipPath></defs>
+<g clip-path="url(#c)">
 <rect width="1200" height="320" fill="#0a0a0a"/>
 <g font-family="Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="12" fill="#8a8a8a" xml:space="preserve">
 <text x="624.0" y="23.7" textLength="8.0" lengthAdjust="spacing">.</text>
@@ -118,4 +120,6 @@
 <text x="64" y="150" font-size="52" font-weight="700" letter-spacing="-1.5">Build less.</text>
 <text x="64" y="212" font-size="52" font-weight="700" letter-spacing="-1.5">Ship clean.</text>
 <text x="66" y="256" font-size="14" font-family="Consolas,'DejaVu Sans Mono',Menlo,monospace" fill="#8a8a8a" letter-spacing="1">// small surface area, things that work</text>
-</g></svg>
+</g></g>
+<rect x="0.5" y="0.5" width="1199" height="319" rx="17.5" fill="none" stroke="#ffffff" stroke-opacity="0.14"/>
+</svg>
