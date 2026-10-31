@@ -2,7 +2,7 @@
 
 <br>
 
-<h3>Hey there, I'm Iri! <img src="assets/glyph-vulcan-v3.svg" alt="Live long and prosper" height="22" align="absmiddle"></h3>
+<h3>Hey there, I'm Iri! <img src="assets/glyph-vulcan-v4.svg" alt="Live long and prosper" height="22" align="absmiddle"></h3>
 
 <p>
   I build web apps, tools and games, mostly because I love making things that work well and feel good to use.
@@ -10,7 +10,7 @@
 
 <p>
   Got an idea, a rough sketch, or a project that could use an extra pair of hands? I'd genuinely like to hear about it.
-  No idea is too small and no question is too basic. Send me a message through the email on my profile and let's see what we can build. <img src="assets/glyph-heart-plain.svg" alt="" height="16" align="absmiddle">
+  No idea is too small and no question is too basic. Send me a message through the email on my profile and let's see what we can build. <img src="assets/glyph-heart-solid.svg" alt="" height="16" align="absmiddle">
 </p>
 
 <p>
