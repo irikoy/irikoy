@@ -1,4 +1,4 @@
-<img src="assets/banner-dark.svg" alt="Build less. Ship clean." width="100%">
+<img src="assets/banner.svg" alt="Build less. Ship clean." width="100%">
 
 <br>
 
