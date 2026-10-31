@@ -16,5 +16,5 @@ svg=f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox
 <text x="33" y="17.5" font-family="{SANS}" font-size="12.5" font-weight="600" fill="#ededed">{n}</text>
 </g>
 </svg>'''
-open(os.path.join(os.path.dirname(__file__),"..","assets","card-iriel.svg"),"w",encoding="utf-8").write(svg)
+open(os.path.join(os.path.dirname(__file__),"..","assets","card-project.svg"),"w",encoding="utf-8").write(svg)
 print("stars",stars)
