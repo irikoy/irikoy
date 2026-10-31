@@ -2,6 +2,25 @@
 
 <br>
 
+<h3>Hey there, I'm Iri.</h3>
+
+<p>
+  I build web apps, tools and games, mostly because I love making things that work well and feel good to use.
+</p>
+
+<p>
+  Got an idea, a rough sketch, or a project that could use an extra pair of hands? I'd genuinely like to hear about it.
+  No idea is too small and no question is too basic. Send me a message through the email on my profile and let's see what we can build.
+</p>
+
+<p>
+  <img src="assets/info-location.svg" alt="Based in Greece" width="266">
+  <img src="assets/info-opensource.svg" alt="Open source enthusiast" width="266">
+  <img src="assets/info-values.svg" alt="Values: simple, honest, open" width="266">
+</p>
+
+<br>
+
 <img src="assets/label-languages-pill.svg" alt="Languages" height="26">
 
 <p>
