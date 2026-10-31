@@ -14,9 +14,9 @@
 </p>
 
 <p>
-  <img src="assets/info-location.svg" alt="Based in Greece" width="266">
-  <img src="assets/info-opensource.svg" alt="Open source enthusiast" width="266">
-  <img src="assets/info-values.svg" alt="Values: simple, honest, open" width="266">
+  <img src="assets/info-location.svg" alt="Based in Greece" width="248">
+  <img src="assets/info-opensource.svg" alt="Open source enthusiast" width="248">
+  <img src="assets/info-values.svg" alt="Values: simple, honest, open" width="248">
 </p>
 
 <br>
