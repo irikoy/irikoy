@@ -1,6 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="96" viewBox="0 0 560 96" role="img" aria-label="Iriel, a dark qBittorrent theme">
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="96" viewBox="0 0 560 96" role="img" aria-label="Iriel, a dark qBittorrent theme. 1 stars">
 <rect x="0.5" y="0.5" width="559" height="95" rx="14" fill="#0a0a0a" stroke="#ffffff" stroke-opacity="0.16"/>
 <text x="24" y="40" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="-0.4" fill="#ededed">Iriel</text>
 <text x="24" y="66" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#8b8b8b">A dark qBittorrent theme inspired by Vercel's Geist design system.</text>
-<text x="536" y="40" text-anchor="end" font-family="Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="12" fill="#8b8b8b" letter-spacing="1">QSS &#183; QT</text>
+<g transform="translate(482,20)">
+<rect x="0.5" y="0.5" width="53" height="26" rx="8" fill="none" stroke="#ffffff" stroke-opacity="0.16"/>
+<g transform="translate(11,6)" fill="#ededed"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.75.75 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"/></g>
+<text x="33" y="17.5" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#ededed">1</text>
+</g>
 </svg>

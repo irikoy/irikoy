@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="assets/label-languages.svg" alt="Languages" height="22">
+<img src="assets/label-languages.svg" alt="Languages" height="26">
 
 <p>
   <img src="assets/badges/typescript.svg" alt="TypeScript" height="28">
@@ -13,7 +13,7 @@
   <img src="assets/badges/glsl.svg" alt="GLSL" height="28">
 </p>
 
-<img src="assets/label-frameworks.svg" alt="Frameworks" height="22">
+<img src="assets/label-frameworks.svg" alt="Frameworks" height="26">
 
 <p>
   <img src="assets/badges/react.svg" alt="React" height="28">
@@ -25,7 +25,7 @@
   <img src="assets/badges/godot.svg" alt="Godot" height="28">
 </p>
 
-<img src="assets/label-tooling.svg" alt="Tooling" height="22">
+<img src="assets/label-tooling.svg" alt="Tooling" height="26">
 
 <p>
   <img src="assets/badges/prisma.svg" alt="Prisma" height="28">
@@ -37,7 +37,7 @@
 
 <br>
 
-<img src="assets/label-work.svg" alt="Selected work" height="22">
+<img src="assets/label-work.svg" alt="Selected work" height="26">
 
 <p>
   <a href="https://github.com/panoskoun/qBittorrent-Iriel-Dark-Theme"><img src="assets/card-iriel.svg" alt="Iriel, a dark qBittorrent theme inspired by Vercel's Geist design system" width="560"></a>
