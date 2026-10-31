@@ -2,7 +2,7 @@
 
 <br>
 
-<h3>Hey there, I'm Iri! <img src="assets/glyph-vulcan.svg" alt="Live long and prosper" height="28" align="absmiddle"></h3>
+<h3>Hey there, I'm Iri! <img src="assets/glyph-vulcan-v2.svg" alt="Live long and prosper" height="28" align="absmiddle"></h3>
 
 <p>
   I build web apps, tools and games, mostly because I love making things that work well and feel good to use.
