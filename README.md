@@ -2,10 +2,6 @@
 
 <br>
 
-<img src="assets/label-stack.svg" alt="Stack" height="22">
-
-<br>
-
 <img src="assets/label-languages.svg" alt="Languages" height="22">
 
 <p>
